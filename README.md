@@ -22,3 +22,30 @@ Un programme de 10 jours pour apprendre Rust et ses bases, avec pour objectif d'
 **Jour 9 :** Création d'un contrat intelligent
 
 **Jour 10 :** Fonctionnalités avancées des contrats intelligents et projet final
+
+## 🛠️ Installation
+
+### 1. Installation de Rust
+```bash
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+source ~/.cargo/env
+```
+
+### 2. Vérification de l'installation
+```bash
+rustc --version
+cargo --version
+```
+
+### 3. Clonez de ce repository
+```bash
+git clone https://github.com/Beloproto/10Days-Building-On-Rust.git
+```
+
+## 🚀 Comment utiliser ce repository
+
+1. **Suivez l'ordre** : Respectez la progression jour par jour
+2. **Pratiquez** : Faites tous les exercices avant de passer au jour suivant
+3. **Expérimentez** : Modifiez les exemples pour mieux comprendre
+4. **Posez des questions** : Utilisez les Issues GitHub pour vos questions
+5. **Partagez** : Montrez vos projets à la communauté !
