@@ -1,5 +1,17 @@
 # 10Days-Building-On-Rust
-Un programme de 10 jours pour apprendre Rust et ses bases, avec pour objectif d'écrire votre premier contrat intelligent.
+Un programme de 10 jours pour apprendre Rust et ses bases, avec pour objectif d'écrire votre premier contrat intelligent.  
+
+## 🎯 À propos
+
+Ce repository contient un parcours d'apprentissage structuré sur 10 jours pour :
+- Maîtriser les fondamentaux du langage Rust
+- Découvrir l'écosystème de Stellar et Soroban
+- Développer des contrats intelligents robustes et sécurisés
+- Acquérir les bonnes pratiques de développement blockchain
+
+## ⚡ Prérequis
+
+- Motivation et curiosité ! 🚀
 
 ## Programme de formation Rust & Soroban - 10 jours
 
@@ -42,10 +54,21 @@ cargo --version
 git clone https://github.com/Beloproto/10Days-Building-On-Rust.git
 ```
 
-## 🚀 Comment utiliser ce repository
+## 🚀 Comment utiliser ce repository ?
 
-1. **Suivez l'ordre** : Respectez la progression jour par jour
+1. **Suivez l'ordre** : Respectez la progression journalière
 2. **Pratiquez** : Faites tous les exercices avant de passer au jour suivant
 3. **Expérimentez** : Modifiez les exemples pour mieux comprendre
 4. **Posez des questions** : Utilisez les Issues GitHub pour vos questions
 5. **Partagez** : Montrez vos projets à la communauté !
+
+  
+## 🤝 Contribution
+
+Les contributions sont les bienvenues ! Pour contribuer :
+
+1. Forkez le projet
+2. Créez une branche pour votre fonctionnalité
+3. Commitez vos changements
+4. Poussez vers la branche
+5. Ouvrez une Pull Request
