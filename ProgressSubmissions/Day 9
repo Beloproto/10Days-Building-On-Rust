@@ -1,0 +1,21 @@
+#![no_std]
+use soroban_sdk::{
+    contract, contractimpl, contracttype, symbol_short, 
+    Env, Symbol, Address, String, Map, Vec, vec
+};
+
+#[derive(Clone, Debug, Eq, PartialEq)]
+#[contracttype]
+pub enum EscrowStatus {
+    Created,
+    FundsDeposited,
+    DeliveryConfirmed,
+    Disputed,
+    Completed,
+    Cancelled,
+    ArbitrationResolved,
+}
+
+Consultez notre [documentation complète][1] pour plus d'informations.
+
+[1]: https://docs.google.com/document/d/1PlC8RMfZ_StDwmkm03xlYoqtSi2IvlbLyXhjzgbDomo/edit?usp=sharing
